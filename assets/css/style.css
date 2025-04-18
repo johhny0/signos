@@ -1,0 +1,114 @@
+.card-signo {
+    border-radius: 15px;
+    overflow: hidden;
+    transition: all 0.3s;
+    border: none;
+}
+.card-signo:hover {
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    transform: translateY(-5px);
+}
+
+.elemento-badge {
+    font-size: 0.8rem;
+    padding: 5px 10px;
+    border-radius: 20px;
+}
+
+/* Elementos */
+.badge-fogo {
+    background-color: #FF4500;
+}
+.badge-terra {
+    background-color: #8B4513;
+}
+.badge-ar {
+    background-color: #00CED1;
+}
+.badge-agua {
+    background-color: #2d6efc;
+}
+.badge-madeira {
+    background-color: #8B0000;
+}
+.badge-metal {
+    background-color: #A9A9A9;
+}
+
+/* Signos Ocidentais */
+.bg-leao {
+    background: linear-gradient(135deg, #FFD700 0%, #FFA500 100%);
+}
+.bg-virgem {
+    background: linear-gradient(135deg, #8A2BE2 0%, #9370DB 100%);
+}
+.bg-libra {
+    background: linear-gradient(135deg, #FF69B4 0%, #FF1493 100%);
+}
+.bg-escorpiao {
+    background: linear-gradient(135deg, #DC143C 0%, #FF6347 100%);
+}
+.bg-sagitario {
+    background: linear-gradient(135deg, #FF8C00 0%, #FFA07A 100%);
+}
+.bg-capricornio {
+    background: linear-gradient(135deg, #A9A9A9 0%, #C0C0C0 100%);
+}
+.bg-aquario {
+    background: linear-gradient(135deg, #00CED1 0%, #20B2AA 100%);
+}
+.bg-peixes {
+    background: linear-gradient(135deg, #4682B4 0%, #5F9EA0 100%);
+}
+.bg-aries {
+    background: linear-gradient(135deg, #FF4500 0%, #FF6347 100%);
+}
+.bg-touro {
+    background: linear-gradient(135deg, #32CD32 0%, #98FB98 100%);
+}
+.bg-gemeos {
+    background: linear-gradient(135deg, #FFD700 0%, #FFFF00 100%);
+}
+.bg-cancer {
+    background: linear-gradient(135deg, #FFB6C1 0%, #FF69B4 100%);
+}
+
+/* Signos Orientais */
+.bg-rato {
+    background: linear-gradient(135deg, #FF4500 0%, #FF6347 100%);
+}
+.bg-boi {
+    background: linear-gradient(135deg, #32CD32 0%, #98FB98 100%);
+}
+.bg-tigre {
+    background: linear-gradient(135deg, #FFD700 0%, #FFFF00 100%);
+}
+.bg-coelho {
+    background: linear-gradient(135deg, #FFB6C1 0%, #FF69B4 100%);
+}
+.bg-dragao {
+    background: linear-gradient(135deg, #8B0000 0%, #FF4500 100%);
+}
+.bg-serpente {
+    background: linear-gradient(135deg, #32CD32 0%, #98FB98 100%);
+}
+.bg-cavalo {
+    background: linear-gradient(135deg, #00CED1 0%, #20B2AA 100%);
+}
+.bg-cabra {
+    background: linear-gradient(135deg, #FF69B4 0%, #FF1493 100%);
+}
+.bg-macaco {
+    background: linear-gradient(135deg, #FFD700 0%, #FFA500 100%);
+}
+.bg-galo {
+    background: linear-gradient(135deg, #FF8C00 0%, #FFA07A 100%);
+}
+.bg-cao {
+    background: linear-gradient(135deg, #A9A9A9 0%, #C0C0C0 100%);
+}
+.bg-porco {
+    background: linear-gradient(135deg, #4682B4 0%, #5F9EA0 100%);
+}
+
+
