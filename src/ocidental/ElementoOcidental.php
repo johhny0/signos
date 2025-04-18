@@ -5,7 +5,6 @@ class ElementoOcidental{
     private string $id;
     private string $nome;
     private string $polaridade;
-    private string $simbolo;
     private string $descricao;
 
     public function __construct(SimpleXMLElement $element = null) {
@@ -13,7 +12,6 @@ class ElementoOcidental{
         $this->nome = $element->nome;
         $this->descricao = $element->descricao;
         $this->polaridade = $element->polaridade;
-        $this->simbolo = $element->simbolo;
     }
 
     public function getId(): string {
@@ -30,10 +28,6 @@ class ElementoOcidental{
 
     public function getPolaridade(): string {
         return $this->polaridade;
-    }
-
-    public function getSimbolo(): string {
-        return $this->simbolo;
     }
 }
 

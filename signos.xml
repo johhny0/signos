@@ -5,28 +5,24 @@
             <id>1</id>
             <nome>Fogo</nome>
             <polaridade>Positivo (masculino • autoexpressivo)</polaridade>
-            <simbolo>fogo-ocidental.svg</simbolo>
             <descricao>Entusiasmo, unidade para se expressar, fé</descricao>
         </elemento>
         <elemento>
             <id>2</id>
             <nome>Ar</nome>
             <polaridade>Positivo (masculino • autoexpressivo)</polaridade>
-            <simbolo>ar-ocidental.svg</simbolo>
             <descricao>Comunicação, socialização, conceituação</descricao>
         </elemento>
         <elemento>
             <id>3</id>
             <nome>Terra</nome>
             <polaridade>Negativo (feminino • independente)</polaridade>
-            <simbolo>terra-ocidental.svg</simbolo>
             <descricao>Praticidade, cautela, mundo material</descricao>
         </elemento>
         <elemento>
             <id>4</id>
             <nome>Água</nome>
             <polaridade>Negativo (feminino • independente)</polaridade>
-            <simbolo>agua-ocidental.svg</simbolo>
             <descricao>Praticidade, cautela, mundo material</descricao>
         </elemento>
     </elementosOcidentais>
@@ -34,7 +30,6 @@
         <modalidade>
             <id>1</id>
             <nome>Cardinal</nome>
-            <simbolo>agua-ocidental.svg</simbolo>
             <descricao>Ação, dinâmica, iniciativa, grande força</descricao>
         </modalidade>
         <modalidade>
