@@ -11,9 +11,6 @@ require_once './src/ocidental/SignoOcidental.php';
 
 require_once './src/SignoService.php';
 
-// https://pt.wikipedia.org/wiki/Signo_astrol%C3%B3gico
-
-
 $dtNascimento = $_POST['dataNascimento'] ?? null;
 if ($dtNascimento === null) {
     die("SEM DATA");

@@ -21,9 +21,7 @@
             </div>
         </div>
     </div>
-</body>
 
-  <!-- Bootstrap JS + Popper -->
 <?php include('./src/layouts/footer.php'); ?>
 
     
